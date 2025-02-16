@@ -12,7 +12,7 @@ Atualmente, estou cursando Engenharia de Computação na UFRN (Universidade Fede
 
 Estou sempre em busca de novos desafios e oportunidades para aprender mais sobre o mundo da tecnologia e da programação.
 
---
+---
 
 🛠 My Skills // Minhas habilidades
 
@@ -20,7 +20,7 @@ Estou sempre em busca de novos desafios e oportunidades para aprender mais sobre
 - Javascript
 - P5.js
 
---
+---
 
 📬 Contact // Contato
 
