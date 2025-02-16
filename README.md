@@ -13,15 +13,11 @@ Atualmente, estou cursando Engenharia de Computação na UFRN (Universidade Fede
 
 Estou sempre em busca de novos desafios e oportunidades para aprender mais sobre o mundo da tecnologia e da programação.
 
----
-
 ## 🛠 My Skills // Minhas habilidades
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 [![P5.js](https://img.shields.io/badge/P5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=white)](https://p5js.org/)
-
----
 
 ## 📬 Contact // Contato
 
