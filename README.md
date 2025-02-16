@@ -1,4 +1,4 @@
-Olá, sou Gabriel de Freitas Januário
+# Olá, sou Gabriel de Freitas Januário
 
 📝 A brief overview of me:
 
@@ -12,11 +12,15 @@ Atualmente, estou cursando Engenharia de Computação na UFRN (Universidade Fede
 
 Estou sempre em busca de novos desafios e oportunidades para aprender mais sobre o mundo da tecnologia e da programação.
 
+--
+
 🛠 My Skills // Minhas habilidades
 
 - Python
 - Javascript
 - P5.js
+
+--
 
 📬 Contact // Contato
 
