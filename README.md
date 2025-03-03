@@ -18,6 +18,7 @@ Estou sempre em busca de novos desafios e oportunidades para aprender mais sobre
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 [![P5.js](https://img.shields.io/badge/P5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=white)](https://p5js.org/)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## Contact // Contato
 
