@@ -1,16 +1,18 @@
-## Hi there 👋
+---
+# Olá, sou Gabriel de Freitas Januário
 
-<!--
-**GabrielFJanu/GabrielFJanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A brief overview of me: <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" height="12">
 
-Here are some ideas to get you started:
+I'm currently an undergraduate Computer Engineering student at UFRN (Federal University of Rio Grande do Norte), with a focus on Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I seek to deepen my knowledge through projects and research, with the goal of building a career focused on AI and research.
+
+## Sobre mim: <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" height="12">
+
+Sou graduando em Engenharia de Computação na UFRN (Universidade Federal do Rio Grande do Norte), com foco em Inteligência Artificial.
+
+Busco aprofundar meus conhecimentos por meio de projetos e pesquisa, com o objetivo de construir uma carreira voltada à IA e à pesquisa.
+
+## Contact / Contato
+
+email: gabrielfjanu@gmail.com
